@@ -13,3 +13,4 @@ Back to the future
 Copy HTML files
 We are symbols, and inhabit symbols
 We are symbols, and inhabit symbols
+File type
