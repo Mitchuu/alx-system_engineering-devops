@@ -21,3 +21,4 @@ script that counts the number of directories and sub-directories in the current 
 What’s new
 Being unique is better than being perfect
 It must be in that file
+Count that word
