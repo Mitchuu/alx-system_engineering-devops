@@ -28,3 +28,4 @@ I hate bins
 Letters only please
 A to Z
 Replace all characters
+script that removes all letters
