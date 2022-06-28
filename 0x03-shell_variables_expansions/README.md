@@ -6,3 +6,4 @@ Global variable
 Every addition to true knowledge is an addition to human power
 Every addition to true knowledge is an addition to human power
 Every addition to true knowledge is an addition to human power
+true knowledge
