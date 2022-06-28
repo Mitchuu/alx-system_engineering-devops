@@ -26,3 +26,5 @@ Count that word
 whatsnext
 I hate bins
 Letters only please
+A to Z
+Replace all characters
