@@ -25,3 +25,4 @@ Count that word
 Count that word
 whatsnext
 I hate bins
+Letters only please
